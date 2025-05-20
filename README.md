@@ -1,16 +1,20 @@
-## Hi there 👋
+# Alexandros Kaloudis | Senior Software Engineer
 
-<!--
-**alexkaloudis/alexkaloudis** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 👨‍💻 About Me
+Senior Software Engineer specializing in distributed systems, microservices architecture, and cloud-native technologies. Passionate about creating elegant solutions to complex problems while delivering exceptional user experiences.
 
-Here are some ideas to get you started:
+## 🛠️ Core Technologies
+- **Backend**: C#, .NET Core, RESTful APIs, SignalR
+- **Architecture**: Microservices, CQRS, Event Sourcing, Distributed Systems
+- **DevOps**: Docker, CI/CD, GitHub Actions
+- **Observability**: Prometheus, Grafana, Loki, Jaeger
+- **Databases**: SQL Server, PostgreSQL, MongoDB
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔍 Currently Working On
+- Implementing advanced observability patterns for microservices
+- Exploring event-driven architectures with Kafka
+- Optimizing CI/CD pipelines for .NET applications
+
+## 📫 Connect With Me
+- [LinkedIn](your-linkedin-url)
+- [Portfolio](https://alexkaloudis.github.io/portfolio/)
